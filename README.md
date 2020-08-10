@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f3a7e93a-d0db-4e6b-ae52-303d49ec2c72/deploy-status)](https://app.netlify.com/sites/bloggyprev/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d4dde1d-663c-4e7c-9beb-f8b1f8a7fee2/deploy-status)](https://app.netlify.com/sites/learnkotlinwithiqbal/deploys)
 
 # Bloggy
 > bloggy is minimum template for git based blog built with vue meta-framework nuxtjs, nuxt-content and tailwind css.
