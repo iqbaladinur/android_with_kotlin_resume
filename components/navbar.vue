@@ -9,7 +9,7 @@
             </p>
           </div>
           <span class="text-sm font-bold">
-            Bloggy
+            Kotlin Resume
           </span>
         </nuxt-link>
       </div>

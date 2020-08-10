@@ -1,6 +1,6 @@
 ---
 title: Pengumuman
-description: Post description here.
+description: Sebuah deklarasi.
 author: Iqbal Adi Nurmansyah
 publishedAt: 2020-08-10T00:33:27.338Z
 category: android
