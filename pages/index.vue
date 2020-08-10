@@ -33,7 +33,7 @@
 <script>
 import postItem from '~/components/postItem';
 const requiredPostKey = ['title', 'slug', 'description', 'publishedAt', 'category'];
-const sortKey = 'title';
+const sortKey = 'publishedAt';
 const sortDirection = 'desc';
 export default {
   name: 'Home',

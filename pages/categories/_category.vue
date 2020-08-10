@@ -20,8 +20,8 @@
 <script>
 import postItem from '~/components/postItem';
 const requiredPostKey = ['title', 'slug', 'description', 'publishedAt', 'category'];
-const sortKey = 'title';
-const sortDirection = 'desc';
+const sortKey = 'category';
+const sortDirection = 'asc';
 export default {
   name: 'Category',
   head () {
